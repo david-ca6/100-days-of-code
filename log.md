@@ -28,6 +28,10 @@ Learning to use go workspace and how to use go with the Gin Web Framework.
 2. [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin.html) 
 
 <!---
+Day x of #100Daysofcode.
+I'm learning to program in go.  
+I've  
+
 ## next:
 3. [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics.html)
 4. [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz.html)

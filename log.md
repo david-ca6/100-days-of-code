@@ -27,6 +27,20 @@ Learning to use go workspace and how to use go with the Gin Web Framework.
 1. [Tutorial: Getting started with multi-module workspaces](https://go.dev/doc/tutorial/workspaces.html)  
 2. [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin.html) 
 
+
+### Day 3: June 10 2022
+
+**Today's Progress**: 
+I'm learning Go Programming.  
+I've been playing with the Gin Web Framework to make an API similar to what I made in the past using C for work.  
+GO and Gin makes the process way faster and easier.  
+
+**Thoughts** 
+By comparing the executable compiled from C with the one compiled from GO.  
+(boot executable accepts the same GET/POST, uses the same data and writes the same log)  
+The go executable is 5 times bigger than the C executable, but t is negligible. (2MB vs 10MB)
+There is no significant difference in speed between the 2 executables, both are mostly IO limited
+
 <!---
 Day x of #100Daysofcode.
 I'm learning to program in go.  

@@ -32,7 +32,7 @@ Learning to use go workspace and how to use go with the Gin Web Framework.
 2. [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin.html) 
 
 
-### Day 3: June 10 2022
+### Day 3: June 09 2022
 
 **Today's Progress**: 
 I'm learning Go Programming.  

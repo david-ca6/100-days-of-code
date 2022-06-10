@@ -10,6 +10,8 @@ I've gone through tutorials 1-2 of the go.dev documentation.
 **Thoughts** 
 
 **Link(s) to work**
+
+**Link(s) to reference used**
 1. [Tutorial: Getting started](https://go.dev/doc/tutorial/getting-started)  
 2. [Tutorial: Create a module](https://go.dev/doc/tutorial/create-module)  
 
@@ -24,6 +26,8 @@ Learning to use go workspace and how to use go with the Gin Web Framework.
 **Thoughts** 
 
 **Link(s) to work**
+
+**Link(s) to reference used**
 1. [Tutorial: Getting started with multi-module workspaces](https://go.dev/doc/tutorial/workspaces.html)  
 2. [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin.html) 
 
@@ -37,9 +41,14 @@ GO and Gin makes the process way faster and easier.
 
 **Thoughts** 
 By comparing the executable compiled from C with the one compiled from GO.  
-(boot executable accepts the same GET/POST, uses the same data and writes the same log)  
-The go executable is 5 times bigger than the C executable, but t is negligible. (2MB vs 10MB)
-There is no significant difference in speed between the 2 executables, both are mostly IO limited
+(boot executable accepts the same GET/POST, uses the same data and writes the same log)   
+The go executable is 5 times bigger than the C executable, but t is negligible. (2MB vs 10MB)  
+There is no significant difference in speed between the 2 executables, both are mostly IO limited  
+
+**Link(s) to work**
+
+**Link(s) to reference used**
+1. [Gin Web Framework](https://gin-gonic.com/)
 
 <!---
 Day x of #100Daysofcode.

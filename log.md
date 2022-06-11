@@ -50,14 +50,40 @@ There is no significant difference in speed between the 2 executables, both are 
 **Link(s) to reference used**  
 1. [Gin Web Framework](https://gin-gonic.com/)
 
+### Day 4: June 10 2022
+
+**Today's Progress**  
+I'm learning Go Programming.   
+I've gone through 2 more tutorials from go.dev documentation:   
+Getting started with generics and Getting started with fuzzing.   
+Learning go is going well so far.
+
+**Thoughts**   
+
+**Link(s) to work**  
+
+**Link(s) to reference used**  
+1. [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics.html)
+2. [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz.html)
+
+
+
+
+
+
 <!---
+
+### Day x: June 09 2022
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+
 Day x of #100Daysofcode.
-I'm learning to program in go.  
-I've  
+I'm learning Go Programming.   
 
 ## next:
-3. [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics.html)
-4. [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz.html)
 5. [Writing Web Applications](https://go.dev/doc/articles/wiki/)
 6. [How to write Go code](https://go.dev/doc/code.html)
 --->

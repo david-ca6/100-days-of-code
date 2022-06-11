@@ -56,9 +56,9 @@ There is no significant difference in speed between the 2 executables, both are 
 I'm learning Go Programming.   
 I've gone through 2 more tutorials from go.dev documentation:   
 Getting started with generics and Getting started with fuzzing.   
-Learning go is going well so far.
 
 **Thoughts**   
+Learning go is going well so far.  
 
 **Link(s) to work**  
 

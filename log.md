@@ -11,7 +11,6 @@ I've gone through tutorials 1-2 of the go.dev documentation.
 1. [Tutorial: Getting started](https://go.dev/doc/tutorial/getting-started)  
 2. [Tutorial: Create a module](https://go.dev/doc/tutorial/create-module)  
 
-
 ### Day 2: June 08 2022
 **Today's Progress**  
 I'm learning to program in go.  
@@ -22,7 +21,6 @@ Learning to use go workspace and how to use go with the Gin Web Framework.
 **Link(s) to reference used**  
 1. [Tutorial: Getting started with multi-module workspaces](https://go.dev/doc/tutorial/workspaces.html)  
 2. [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin.html) 
-
 
 ### Day 3: June 09 2022
 **Today's Progress**  
@@ -50,8 +48,6 @@ Learning go is going well so far.
 1. [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics.html)
 2. [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz.html)
 
-
-
 ### Day 5: June 11 2022
 **Today's Progress**  
 Taking a break from learning Go today.  
@@ -62,7 +58,40 @@ Wrote code for GPIO, SPI, 48LM01 EERAM SPI Driver.
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 6: June 12 2022
+**Today's Progress**  
+I'm learning Go Programming.   
+Reading documentation for Go package.
+Playing with go package (serial,net,http)
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 
+### Day 7: June 13 2022
+**Today's Progress**  
+Writing and debugging C code for 7h.
+Learning Go Programming for 1h.   
+I've gone through 1 more tutorials from go.dev documentation.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+[Writing Web Applications](https://go.dev/doc/articles/wiki/)
+
+<!---
+### Day 8: June 14 2022
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+--->
+
+<!---
+### Day 9: June 15 2022
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+--->
 
 
 <!---
@@ -76,6 +105,7 @@ Wrote code for GPIO, SPI, 48LM01 EERAM SPI Driver.
 
 Day x of #100Daysofcode.
 I'm learning Go Programming.   
+
 
 ## next:
 5. [Writing Web Applications](https://go.dev/doc/articles/wiki/)

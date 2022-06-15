@@ -77,13 +77,13 @@ I've gone through 1 more tutorials from go.dev documentation.
 **Link(s) to reference used**  
 [Writing Web Applications](https://go.dev/doc/articles/wiki/)
 
-<!---
+
 ### Day 8: June 14 2022
 **Today's Progress**  
+8 hours of writing, debugging and documenting C code
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
---->
 
 <!---
 ### Day 9: June 15 2022
@@ -104,7 +104,7 @@ I've gone through 1 more tutorials from go.dev documentation.
 
 
 Day x of #100Daysofcode.
-I'm learning Go Programming.   
+7h writing, debugging and documenting C code.
 
 
 ## next:

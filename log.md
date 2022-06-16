@@ -85,13 +85,15 @@ I've gone through 1 more tutorials from go.dev documentation.
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-<!---
+
 ### Day 9: June 15 2022
 **Today's Progress**  
+4 hours debugging embedded C code  
+1 hour setting up an AlmaLinux server  
+1 hour writing documentation in markdown  
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
---->
 
 
 <!---

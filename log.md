@@ -95,6 +95,13 @@ I've gone through 1 more tutorials from go.dev documentation.
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 10: June 16 2022
+**Today's Progress**  
+Debugging embedded C code  
+Learning about Exported vs non Exported field in Go
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 
 <!---
 

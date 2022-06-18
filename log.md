@@ -105,7 +105,7 @@ Learning about Exported vs non Exported field in Go
 
 ### Day 11: Jan 17 1970
 **Today's Progress**  
-Writing a test software to test an embeded system.
+Writing a test software to test an embedded system.
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

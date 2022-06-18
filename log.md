@@ -101,6 +101,13 @@ Debugging embedded C code
 Learning about Exported vs non Exported field in Go
 **Thoughts**   
 **Link(s) to work**  
+**Link(s) to reference used** 
+
+### Day 11: Jan 17 1970
+**Today's Progress**  
+Writing a test software to test an embeded system.
+**Thoughts**   
+**Link(s) to work**  
 **Link(s) to reference used**  
 
 <!---

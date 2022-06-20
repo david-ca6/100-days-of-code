@@ -117,6 +117,7 @@ Implementing xmodem File transfer in Go
  - definition requirement  
  - definition architecture of package  
  - starting implementation  
+
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**   
@@ -125,6 +126,7 @@ Implementing xmodem File transfer in Go
 **Today's Progress**  
 Implementing xmodem File transfer in Go  
  - working on transmit and receive function   
+
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

@@ -113,6 +113,10 @@ Writing a test software to test an embedded system.
 ### Day 12: June 18 2022
 **Today's Progress**  
 Implementing xmodem File transfer in Go  
+ - setup of project in vscode with toolchain in container
+ - definition requirement
+ - definition architecture of package
+ - starting implementation
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**   
@@ -120,6 +124,7 @@ Implementing xmodem File transfer in Go
 ### Day 13: June 19 2022
 **Today's Progress**  
 Implementing xmodem File transfer in Go  
+ - working on transmit and receive function
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

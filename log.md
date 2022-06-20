@@ -103,14 +103,21 @@ Learning about Exported vs non Exported field in Go
 **Link(s) to work**  
 **Link(s) to reference used** 
 
-### Day 11: Jan 17 1970
+### Day 11: June 17 2022
 **Today's Progress**  
 Writing a test software to test an embedded system.  
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-### Day 12: Jan 18 1970
+### Day 12: June 18 2022
+**Today's Progress**  
+Implementing xmodem File transfer in Go  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**   
+
+### Day 13: June 19 2022
 **Today's Progress**  
 Implementing xmodem File transfer in Go  
 **Thoughts**   

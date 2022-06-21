@@ -131,6 +131,13 @@ Implementing xmodem File transfer in Go
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 14: June 20 2022
+**Today's Progress**  
+Embedded C coding
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970

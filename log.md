@@ -133,11 +133,96 @@ Implementing xmodem File transfer in Go
 
 ### Day 14: June 20 2022
 **Today's Progress**  
-Embedded C coding
+Embedded C coding   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 15: June 21 2022
+**Today's Progress**  
+Embedded C coding SAMD21  
+Setup of a project template for futur use   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 16: June 22 2022
+**Today's Progress**  
+Embedded C coding SAMD21  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 17: June 23 2022
+**Today's Progress**  
+Embedded C coding SAMD21   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 18: June 24 2022
+**Today's Progress**  
+Embedded C coding SAMD21   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 19: June 25 2022
+**Today's Progress**  
+Embedded C coding SAMD21   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 20: June 26 2022
+**Today's Progress**  
+Embedded C coding SAMD21   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 21: June 27 2022
+**Today's Progress**  
+Embedded C coding SAMD21   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 22: June 28 2022
+**Today's Progress**  
+Embedded C coding SAMD21   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 23: June 29 2022
+**Today's Progress**  
+Embedded C coding SAMD21   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 24: June 30 2022
+**Today's Progress**  
+Embedded C coding test dev board with arduino ide   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 25: Jul 01 2022
+**Today's Progress**  
+Embedded C coding for ATtiny88    
+Setup template project VScode+makefile+avr-gcc for futur use   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 26: Jul 01 2022
+**Today's Progress**  
+Embedded C coding for ATtiny88   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 <!---
 
 ### Day x: Jan 01 1970

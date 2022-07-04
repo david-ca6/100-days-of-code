@@ -217,10 +217,21 @@ Setup template project VScode+makefile+avr-gcc for futur use
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-### Day 26: Jul 01 2022
+### Day 26: Jul 02 2022
 **Today's Progress**  
 Embedded C coding for ATtiny88   
 **Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 27: Jul 03 2022
+**Today's Progress**  
+Embedded C coding for ATmega328p   
+**Thoughts**   
+I now have 3 microcontroler candiate for my next project,   
+I made a template project ready to build for each of them,   
+One more to try and I will then have to chose one of them,   
+so far any of them would do the job.   
 **Link(s) to work**  
 **Link(s) to reference used**  
 <!---

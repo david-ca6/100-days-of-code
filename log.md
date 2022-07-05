@@ -233,6 +233,13 @@ I made a template project ready to build for each of them,
 One more to try and I will then have to chose one of them,   
 so far any of them would do the job.   
 **Link(s) to work**  
+**Link(s) to reference used**   
+
+### Day 28: Jul 04 2022
+**Today's Progress**  
+Embedded C coding for ATmega328p   
+**Thoughts**   
+**Link(s) to work**  
 **Link(s) to reference used**  
 <!---
 

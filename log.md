@@ -241,6 +241,17 @@ Embedded C coding for ATmega328p
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
+
+### Day 29: Jul 05 2022
+**Today's Progress**  
+I did mostly HTML, CSS and js,   
+cleaning and commiting old css file to git,   
+working on updating my website   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+
 <!---
 
 ### Day x: Jan 01 1970

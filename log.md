@@ -252,6 +252,14 @@ working on updating my website
 **Link(s) to reference used**  
 
 
+### Day 30: Jul 06 2022
+**Today's Progress**  
+Today I continued working on my website, it's going kinda slow since I don't have a lot of experience in HTML, CSS and JS.   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+
 <!---
 
 ### Day x: Jan 01 1970

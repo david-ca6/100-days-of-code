@@ -261,9 +261,9 @@ Today I continued working on my website, it's going kinda slow since I don't hav
 
 ### Day 31: Jul 07 2022  
 **Today's Progress**  
-Today I did some embedded C coding   
-- gpio abstraction
-- keypad support
+Today I did some embedded C coding      
+- gpio abstraction   
+- keypad support   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

@@ -259,21 +259,23 @@ Today I continued working on my website, it's going kinda slow since I don't hav
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-
-<!---
-
-### Day x: Jan 01 1970
+### Day 31: Jul 07 2022  
 **Today's Progress**  
+Today I did some embedded C coding   
+- gpio abstraction
+- keypad support
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+<!---
+### Day x: Jan 01 1970   
+**Today's Progress**  
+Today I 
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 
 Day x of #100Daysofcode.
-7h writing, debugging and documenting C code.
-
-
-## next:
-5. [Writing Web Applications](https://go.dev/doc/articles/wiki/)
-6. [How to write Go code](https://go.dev/doc/code.html)
+Today I 
 --->

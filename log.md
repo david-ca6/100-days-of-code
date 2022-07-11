@@ -269,6 +269,27 @@ Today I did some embedded C coding
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 32: Jul 08 2022  
+**Today's Progress**  
+Today I did some embedded C coding 
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 33: Jul 09 2022  
+**Today's Progress**  
+Reviewing Go concept learned before vacation  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 34: Jul 10 2022  
+**Today's Progress**  
+Reviewing Go concept learned before vacation  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 ### Day x: Jan 01 1970   
 **Today's Progress**  

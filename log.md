@@ -368,7 +368,7 @@ Today I did some html and css
 
 ### Day 45: Jul 21 2022  
 **Today's Progress**  
-Today I did some programming in C, trying to debug some old code.
+Today I did some programming in C, trying to debug some old code.   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

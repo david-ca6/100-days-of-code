@@ -293,59 +293,91 @@ Reviewing Go concept learned before vacation
 
 ### Day 35: Jul 11 2022  
 **Today's Progress**  
+Setup dev environement in VM   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 36: Jul 12 2022  
 **Today's Progress**  
+Setup dev environement in VM   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 37: Jul 13 2022  
 **Today's Progress**  
+Setup dev environement in VM   
+Setup dev environement in Container with podman   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 38: Jul 14 2022  
 **Today's Progress**  
+Setup dev environement in Container with podman   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 39: Jul 15 2022  
 **Today's Progress**  
+Setup dev environement in VM   
+Setup dev environement in Container with podman   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 40: Jul 16 2022  
 **Today's Progress**  
+Today I did some embeded C coding for atmega88 using avr-gcc   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 41: Jul 17 2022  
 **Today's Progress**  
+Today I did some embeded C coding for atmega88 using avr-gcc   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 42: Jul 18 2022  
 **Today's Progress**  
+Today I did some embeded C coding   
+Setup dev environement in VM & Container   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 43: Jul 19 2022  
 **Today's Progress**  
+Today I did some embeded C coding   
+Today I did some html and css   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 44: Jul 20 2022  
+**Today's Progress**  
+Today I did some embeded C coding, trying to debug some old code.   
+Today I did some html and css   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 
+### Day 45: Jul 21 2022  
+**Today's Progress**  
+Today I did some programming in C, trying to debug some old code.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 46: Jul 22 2022  
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 <!---
 ### Day x: Jan 01 1970   
 **Today's Progress**  

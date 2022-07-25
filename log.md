@@ -375,9 +375,41 @@ Today I did some programming in C, trying to debug some old code.
 
 ### Day 46: Jul 22 2022  
 **Today's Progress**  
+Definition of an API to log time on working on various projects.   
+**Thoughts**   
+My goal is to make something easy and fast to use, something that dosent't get in the way of my work.   
+Once the API is done, I will need to create a DB and a client app to go with it.   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 47: Jul 23 2022  
+**Today's Progress**  
+Implementation of an API to log time on working on various projects.   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
+
+### Day 48: Jul 24 2022  
+**Today's Progress**  
+Implementation of an API to log time on working on various projects.   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 49: Jul 25 2022  
+**Today's Progress**   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 50: Jul 26 2022  
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+
+
 <!---
 ### Day x: Jan 01 1970   
 **Today's Progress**  

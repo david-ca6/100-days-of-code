@@ -408,15 +408,52 @@ Implementation of an API to log time on working on various projects.
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 51: Jul 27 2022  
+**Today's Progress**  
+Setup SDL2 dev environement on linux and windows   
+Learning to use the SDL2   
+Learned: SDL2 create a windows and fill the screen with a color  
+**Thoughts**  
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 52: Jul 28 2022  
+**Today's Progress**  
+Learning to use SDL2 in C by Making a simple Space Invader Clone.   
+Still need to clean the code and add score.   
+Learned: event system, load image, draw image   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 
 
 <!---
+### Day 53: Jul 29 2022  
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 54: Jul 30 2022  
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 55: Jul 31 2022  
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+
 ### Day x: Jan 01 1970   
 **Today's Progress**  
 Today I 
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
+
 
 Day x of #100Daysofcode.
 Today I 

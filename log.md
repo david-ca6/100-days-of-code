@@ -426,13 +426,16 @@ Learned: event system, load image, draw image
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-
-<!---
 ### Day 53: Jul 29 2022  
 **Today's Progress**  
+Learning to use SDL2 in C by Making a simple Space Invader Clone.  
+Rewriten my code to make a cleaner version and allow to reuse part of the code more easily if needed.   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
+
+
+<!---
 
 ### Day 54: Jul 30 2022  
 **Today's Progress**  

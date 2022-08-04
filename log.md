@@ -434,6 +434,42 @@ Rewriten my code to make a cleaner version and allow to reuse part of the code m
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 54: Jul 30 2022  
+**Today's Progress**  
+Vacation   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 55: Jul 31 2022  
+**Today's Progress**  
+Vacation   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 56: Aug 01 2022  
+**Today's Progress**  
+Vacation   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 57: Aug 02 2022  
+**Today's Progress**  
+Writing code to generate a MineSweeper map   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 58: Aug 03 2022  
+**Today's Progress**  
+Making a minesweeper clone to pratice SDL2 concept   
+Integrating the MineSweeper map generation in a SDL2 project to make a minesweeper clone  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 
 <!---
 

@@ -470,6 +470,13 @@ Integrating the MineSweeper map generation in a SDL2 project to make a minesweep
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 59: Aug 04 2022  
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+
 
 <!---
 

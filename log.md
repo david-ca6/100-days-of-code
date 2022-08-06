@@ -472,26 +472,20 @@ Integrating the MineSweeper map generation in a SDL2 project to make a minesweep
 
 ### Day 59: Aug 04 2022  
 **Today's Progress**  
+I did mostly HTML, CSS and js.   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 60: Aug 05 2022  
+**Today's Progress**  
+I did mostly HTML, CSS and js.   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 
 
 <!---
-
-### Day 54: Jul 30 2022  
-**Today's Progress**  
-**Thoughts**   
-**Link(s) to work**  
-**Link(s) to reference used**  
-
-### Day 55: Jul 31 2022  
-**Today's Progress**  
-**Thoughts**   
-**Link(s) to work**  
-**Link(s) to reference used**  
-
 
 ### Day x: Jan 01 1970   
 **Today's Progress**  
@@ -500,7 +494,7 @@ Today I
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-
 Day x of #100Daysofcode.
 Today I 
+
 --->

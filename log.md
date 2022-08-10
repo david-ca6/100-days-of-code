@@ -484,6 +484,41 @@ I did mostly HTML, CSS and js.
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 61: Aug 06 2022  
+**Today's Progress**  
+I did mostly HTML, CSS and js.   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 62: Aug 07 2022  
+**Today's Progress**  
+C programming for embeded system   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 63: Aug 08 2022  
+**Today's Progress**  
+C programming for embeded system   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 64: Aug 09 2022  
+**Today's Progress**  
+4 hours of C programming for embeded system   
+3 hours of ducumenting C code and how to build the project   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 65: Aug 10 2022  
+**Today's Progress**  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 
 <!---
 

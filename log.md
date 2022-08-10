@@ -507,9 +507,9 @@ C programming for embeded system
 
 ### Day 64: Aug 09 2022  
 **Today's Progress**  
-4 hours of C programming for embeded system.   
-3 hours of ducumenting C code and how to build the project on linux.   
-I don't know why, but writing docs is the most suffering part of my job.     
+4 hours of C programming for embedded systems.   
+3 hours of documenting C code and how to build the project on Linux.   
+I don't know why, but writing docs is the most suffering part of my job.   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

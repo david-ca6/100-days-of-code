@@ -516,10 +516,19 @@ I don't know why, but writing docs is the most suffering part of my job.
 
 ### Day 65: Aug 10 2022  
 **Today's Progress**  
+Today I did some C programming, I'm trying to finish some personal projects.   
+I need to start finishing projects instead of adding new ones to the list.   
+My list of unfinished projects is way too long.   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 66: Aug 11 1970   
+**Today's Progress**  
+Today I 
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
 
 <!---
 

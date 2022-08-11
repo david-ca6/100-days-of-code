@@ -517,7 +517,7 @@ I don't know why, but writing docs is the most suffering part of my job.
 ### Day 65: Aug 10 2022  
 **Today's Progress**  
 Today I did some C programming, I'm trying to finish some personal projects.   
-I need to start finishing projects instead of adding new ones to the list.   
+I need to finishing projects instead of adding new ones to the list.   
 My list of unfinished projects is way too long.   
 **Thoughts**   
 **Link(s) to work**  

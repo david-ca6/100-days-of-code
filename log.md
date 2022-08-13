@@ -525,7 +525,23 @@ My list of unfinished projects is way too long.
 
 ### Day 66: Aug 11 1970   
 **Today's Progress**  
-Today I 
+Today I:
+Setup a container for rust dev  
+Follow rust getting started tutorial  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 67: Aug 12 1970   
+**Today's Progress**  
+Today I'm learning rust buy following a tutorial   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 68: Aug 13 1970   
+**Today's Progress**  
+Today I   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

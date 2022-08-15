@@ -546,6 +546,14 @@ Today I
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 69: Aug 14 1970   
+**Today's Progress**  
+Today I programmed in C trying to finish making the minesweeper clone I started some time ago with the SDL2 library.  
+I really need to finish it before I lose all interest in it.  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

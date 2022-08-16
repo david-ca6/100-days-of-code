@@ -523,7 +523,7 @@ My list of unfinished projects is way too long.
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-### Day 66: Aug 11 1970   
+### Day 66: Aug 11 2022   
 **Today's Progress**  
 Today I:
 Setup a container for rust dev  
@@ -532,24 +532,32 @@ Follow rust getting started tutorial
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-### Day 67: Aug 12 1970   
+### Day 67: Aug 12 2022   
 **Today's Progress**  
 Today I'm learning rust buy following a tutorial   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-### Day 68: Aug 13 1970   
+### Day 68: Aug 13 2022   
 **Today's Progress**  
 Today I   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-### Day 69: Aug 14 1970   
+### Day 69: Aug 14 2022   
 **Today's Progress**  
 Today I programmed in C trying to finish making the minesweeper clone I started some time ago with the SDL2 library.  
 I really need to finish it before I lose all interest in it.  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 70: Aug 15 2022   
+**Today's Progress**  
+Learned to make requests to YouTube Data API v3 in Go.   
+Updated my minesweeper clone written in C to build on Linux and Windows.   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

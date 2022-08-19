@@ -562,6 +562,27 @@ Updated my minesweeper clone written in C to build on Linux and Windows.
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 71: Aug 16 2022   
+**Today's Progress**   
+Embeded C programming  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 72: Aug 17 2022   
+**Today's Progress**   
+Embeded C programming  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 73: Aug 18 2022   
+**Today's Progress**   
+Writing documentation and instruction on how to use a attiny dev board.  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

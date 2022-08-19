@@ -578,7 +578,8 @@ Embeded C programming
 
 ### Day 73: Aug 18 2022   
 **Today's Progress**   
-Writing documentation and instruction on how to use a attiny dev board.  
+Writing and Documenting (doxygen) C code.   
+Writing build instruction in markdown.   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

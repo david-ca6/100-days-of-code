@@ -534,14 +534,14 @@ Follow rust getting started tutorial
 
 ### Day 67: Aug 12 2022   
 **Today's Progress**  
-Today I'm learning rust buy following a tutorial   
+Today I'm learning rust by following a tutorial   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 
 ### Day 68: Aug 13 2022   
 **Today's Progress**  
-Today I   
+Today I'm learning rust by following a tutorial  
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
@@ -580,6 +580,35 @@ Embeded C programming
 **Today's Progress**   
 Writing and Documenting (doxygen) C code.   
 Writing build instruction in markdown.   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+
+### Day 74: Aug 19 2022   
+**Today's Progress**   
+Writing and Documenting (doxygen) C code.   
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 75: Aug 20 2022   
+**Today's Progress**   
+Writing Html, Css and JS, learning how to import a markdown file in a webpage to display it's content in html  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 76: Aug 21 2022   
+**Today's Progress**   
+Trying to organise and clean my various programming project   
+listing all project to finish and finiching some of them  
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 77: Aug 22 2022    
+**Today's Progress**   
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

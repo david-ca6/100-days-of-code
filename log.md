@@ -607,10 +607,14 @@ listing all project to finish and finiching some of them
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-### Day 77: Aug 22 2022    
+
+### Day 01: Jan 05 2023    
 **Today's Progress**   
+Today I wrote C code to display a simple text gui in SDL2 to use as debug menu for a game i'm working on as a personal project.
 **Thoughts**   
+Should probably a git repo for the code...
 **Link(s) to work**  
+TODO...
 **Link(s) to reference used**  
 
 <!---

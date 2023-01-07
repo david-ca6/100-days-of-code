@@ -627,6 +627,16 @@ Should probably a git repo for the code...
 TODO...
 **Link(s) to reference used**  
 
+
+### Day 03: Jan 06 2023    
+**Today's Progress**   
+Today I wrote C code to play audio in the game I'm working on as a personal project. 
+**Thoughts**   
+Should probably a git repo for the code...
+**Link(s) to work**  
+TODO...
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

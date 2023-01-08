@@ -637,6 +637,14 @@ Should probably a git repo for the code...
 TODO...
 **Link(s) to reference used**  
 
+
+### Day 04: Jan 07 2023   
+**Today's Progress**  
+Today I wrote C code to support playing BGM, voice, and sound effects in the game I'm working on as a personal project. 
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

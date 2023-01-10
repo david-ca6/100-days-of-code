@@ -653,6 +653,14 @@ Today I wrote C code to create a custom text imput field in ui of the game I'm w
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+
+### Day 06: Jan 09 2023   
+**Today's Progress**  
+Today I wrote C code to control the audio volume in the game I'm working on as a personal project.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

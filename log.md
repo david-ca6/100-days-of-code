@@ -661,6 +661,14 @@ Today I wrote C code to control the audio volume in the game I'm working on as a
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+
+### Day 07: Jan 10 2023   
+**Today's Progress**  
+Today I continued working on the audio and UI of the game I'm working on as a personal project.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

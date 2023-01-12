@@ -669,6 +669,14 @@ Today I continued working on the audio and UI of the game I'm working on as a pe
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+
+### Day 08: Jan 11 2023   
+**Today's Progress**  
+Today I did some firmware developement in c, mostly debuging bug.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

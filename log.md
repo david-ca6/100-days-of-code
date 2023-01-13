@@ -677,6 +677,15 @@ Today I did some firmware development in c, mostly debugging bugs.
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+
+### Day 09: Jan 12 2023   
+**Today's Progress**  
+Today I did some firmware debugging in c.
+**Thoughts**   
+It was painful, and I still don't know the cause of the bug, will need to continue tomorrow.
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

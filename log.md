@@ -686,6 +686,15 @@ It was painful, and I still don't know the cause of the bug, will need to contin
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+
+### Day 10: Jan 13 2023   
+**Today's Progress**  
+Today I did some firmware debugging in C. Also had to rewrite some old software code to make it build on ubuntu server 20.04.5 and 22.04.1 due to the version of a library being different from the one originally used.
+**Thoughts**   
+It was painful, and I still don't know the cause of the bug, will need to continue tomorrow.
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

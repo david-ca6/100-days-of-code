@@ -691,7 +691,14 @@ It was painful, and I still don't know the cause of the bug, will need to contin
 **Today's Progress**  
 Today I did some firmware debugging in C. Also had to rewrite some old software code to make it build on ubuntu server 20.04.5 and 22.04.1 due to the version of a library being different from the one originally used.
 **Thoughts**   
-It was painful, and I still don't know the cause of the bug, will need to continue tomorrow.
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+
+### Day 11: Jan 14 2023   
+**Today's Progress**  
+Today I wrote some code similar to the code in gacha game to randomly pick an item or character with a random rank, both selected using predefined rates. There was no point to it, but it may use it to do a shitty each game in the future as a joke.
+**Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  
 

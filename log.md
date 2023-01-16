@@ -702,6 +702,13 @@ Today I wrote some code similar to the code in gacha game to randomly pick an it
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 12: Jan 15 2023   
+**Today's Progress**  
+Today I set up my dev environment to build C and Rust code for web assembly, don't have any real use for it now, but maybe I will have a use for it in the future, anyway it's interesting.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

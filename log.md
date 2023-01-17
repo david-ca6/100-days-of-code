@@ -709,6 +709,14 @@ Today I set up my dev environment to build C and Rust code for web assembly, don
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 13: Jan 16 2023   
+**Today's Progress**  
+Today I wrote code to use a modern microcontroler to perform a memtest on an old 8 bit system while keeping the system cpu in reset.
+The ram is tested with 0x00, 0xFF, and both 0xAA55/0x55AA patern.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

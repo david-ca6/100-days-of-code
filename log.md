@@ -719,7 +719,7 @@ The ram is tested with 0x00, 0xFF, and both 0xAA55/0x55AA patern.
 
 ### Day 14: Jan 17 2023   
 **Today's Progress**  
-Today I did some firmware debuging. I also wrote a script to automate the setup of my fedora workstation with 
+Today I worked on debugging firmware written in C on a product I maintain. I also wrote a script to automate the setup of my fedora workstation with all the software, extensions, and settings I use.
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

@@ -724,6 +724,13 @@ Today I worked on debugging firmware written in C on a product I maintain. I als
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 15: Jan 18 2023   
+**Today's Progress**  
+Today I didn't do a lot since I was sick, but I still managed to write some code for the game I'm working on as a personal project.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

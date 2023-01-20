@@ -731,6 +731,13 @@ Today I didn't do a lot since I was sick, but I still managed to write some code
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 16: Jan 19 2023   
+**Today's Progress**  
+Today I created a git repo (on github) for the game I'm working on, I also started cleaning and rewriting part of the code.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

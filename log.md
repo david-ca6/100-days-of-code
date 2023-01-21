@@ -740,7 +740,7 @@ Today I created a git repo (on github) for the game I'm working on, I also start
 
 ### Day 17: Jan 20 2023   
 **Today's Progress**  
-Today I added a Game Object Manager module in the code of the game engine to make managing the game object easier, it allows to create/delete a single object or delete all object in the list and handle managing the various graphic layer (Menu UI, Debug UI, Game UI, Game Element) and which should be displayed or receive input.
+Today I added a Game Object Manager module in the code of the game engine to make managing the game object easier, it allows to create/delete a single object or delete all object in the list and handle managing the various graphic layer (Menu UI, Debug UI, Game UI, Game Element) and which should be displayed, updated, or receive input.  2/2
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

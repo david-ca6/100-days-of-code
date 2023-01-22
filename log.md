@@ -747,6 +747,7 @@ Today I wrote a Game Object Manager module in the code of the game I'm working o
 
 ### Day 18: Jan 21 2023   
 **Today's Progress**  
+Today I rewrote part of the image module and the text module. Also imported them into the new project for the game engine to split the game itself from the engine.
 **Thoughts**   
 **Link(s) to work**  
 **Link(s) to reference used**  

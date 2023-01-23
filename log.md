@@ -752,6 +752,13 @@ Today I rewrote part of the image module and the text module. Also imported them
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 19: Jan 22 2023   
+**Today's Progress**  
+Today I imported and rewrote part of the audio module into the project for the game engine to continue to split the game itself from the engine.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

@@ -759,6 +759,13 @@ Today I imported and rewrote part of the audio module into the project for the g
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 20: Jan 23 2023   
+**Today's Progress**  
+Today I worked on setup a dev environment for a python project in a container, I then coded a little in python, and yeah I still don't really like python, I guess I'm too old school for python since my favorite language is C, lol.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

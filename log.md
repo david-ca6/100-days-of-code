@@ -782,7 +782,7 @@ https://github.com/CA6-LiveTS/LiveTS-VLC
 
 ### Day 2: Aug 11 2023 
 **Today's Progress**  
-Today I worked on a game I'm making in javascript, it's a simple clone of some of the old WarioWare Inc minigames, but it's good to practice coding in JavaScript.
+Today I worked on a game I'm making in javascript, it's a simple clone of some of the old WarioWare Inc minigames, but it's good enough to practice coding in JavaScript. And at the same time, it allows me to practice doing pixel art, so that's nice too.
 **Thoughts**   
 **Link(s) to work**  
 https://github.com/onlyflans-dog-app/purinWare (repo private until I feel like it's good enough to share it)

@@ -766,6 +766,28 @@ Today I worked on setup a dev environment for a python project in a container, I
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 01: Aug 10 2023
+**Today's Progress**  
+- Worked on writing a tool in #C to parse data to detect incoherence and error in the log of an embedded system. 
+- Worked on making a cleaner and more maintainable version of a Chrome extension in #js I'm working on. 
+**Thoughts**
+- C is my main language so the tool in C was simple to make.
+- I am still a beginner in JS so it takes time, but it is progressing.
+**Link(s) to work**
+- Debug tool in C is not public and will not be since it processes data in a proprietary format
+- Chrome extension is WIP and in a private repo, but change will soon be pushed to the public LiveTS/VodTS repo:
+https://github.com/CA6-LiveTS/VodTS-chrome
+https://github.com/CA6-LiveTS/LiveTS-VLC
+**Link(s) to reference used**  
+
+### Day 2: Aug 11 2023 
+**Today's Progress**  
+Today I worked on a game I'm making in javascript, it's a simple clone of some of the old WarioWare Inc minigames, but it's good to practice coding in JavaScript.
+**Thoughts**   
+**Link(s) to work**  
+https://github.com/onlyflans-dog-app/purinWare (repo private until I feel like it's good enough to share it)
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

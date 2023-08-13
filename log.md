@@ -607,6 +607,7 @@ listing all project to finish and finiching some of them
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+## --------------------------------------------
 
 ### Day 01: Jan 04 2023    
 **Today's Progress**   
@@ -766,6 +767,8 @@ Today I worked on setup a dev environment for a python project in a container, I
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+## --------------------------------------------
+
 ### Day 01: Aug 10 2023
 **Today's Progress**  
 - Worked on writing a tool in #C to parse data to detect incoherence and error in the log of an embedded system. 
@@ -782,10 +785,18 @@ https://github.com/CA6-LiveTS/LiveTS-VLC
 
 ### Day 2: Aug 11 2023 
 **Today's Progress**  
-Today I worked on a game I'm making in javascript, it's a simple clone of some of the old WarioWare Inc minigames, but it's good enough to practice coding in JavaScript. And at the same time, it allows me to practice doing pixel art, so that's nice too.
+Today I
+- Worked on a game I'm making in javascript, it's a simple clone of some of the old WarioWare Inc minigames, but it's good enough to practice coding in JavaScript. And at the same time, it allows me to practice doing pixel art, so that's nice too.
 **Thoughts**   
 **Link(s) to work**  
 https://github.com/onlyflans-dog-app/purinWare (repo private until I feel like it's good enough to share it)
+**Link(s) to reference used**  
+
+### Day 3: Aug 12 2023
+**Today's Progress**  
+Today I continued working on a game I'm making in javascript, it's a simple clone of some of the old WarioWare Inc minigames, but it allow me to practice coding in JavaScript. 
+**Thoughts**   
+**Link(s) to work**  
 **Link(s) to reference used**  
 
 <!---

@@ -799,6 +799,27 @@ Today I continued working on a game I'm making in javascript, it's a simple clon
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 4: Aug 13 2023
+**Today's Progress**  
+Today I continued working on a game I'm making in javascript, it's a simple clone of some of the old WarioWare Inc minigames, but it allow me to practice coding in JavaScript. 
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 5: Aug 14 2023
+**Today's Progress**  
+Today I continued working on a software to process some data that I need to check for irregularity and error. The software is mostly written in C, but I also added some tools in Python to process part of the data.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 6: Aug 15 2023
+**Today's Progress**  
+Today I continued working on the Python part of the tool to process the data of an embedded system I work on for irregularity and error.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

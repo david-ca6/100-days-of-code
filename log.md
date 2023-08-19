@@ -836,6 +836,20 @@ Also tried Electron for the first time by doing the Get Started Tutorial on http
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 9: Aug 18 2023 
+**Today's Progress**  
+Today I worked on trying Tailwind CSS, so far it look interesting. I'm currently remaking my website that I use at a portfolio, so it could be nice to try to use Tailwind for it, and see if I like it.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 9: Aug 18 2023 
+**Today's Progress**  
+Today I 
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

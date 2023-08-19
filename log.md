@@ -820,6 +820,22 @@ Today I continued working on the Python part of the tool to process the data of 
 **Link(s) to work**  
 **Link(s) to reference used**  
 
+### Day 7: Aug 16 2023
+**Today's Progress**  
+Today I worked on a new project in JavaScript. It allowed me to practice loading a user provided image, displaying the image, manipulating the image, saving/loading the user preset as JSON for reuse, and saving the modified images using JS.
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
+### Day 8: Aug 17 2023
+**Today's Progress**  
+Today I worked on parsing data from an embedded system and displaying the data on a map using folium in Python.
+The data needed a lot of processing to be cleaned and become useful for diagnostic.
+Also tried Electron for the first time by doing the Get Started Tutorial on https://www.electronjs.org/
+**Thoughts**   
+**Link(s) to work**  
+**Link(s) to reference used**  
+
 <!---
 
 ### Day x: Jan 01 1970   

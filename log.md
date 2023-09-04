@@ -843,12 +843,23 @@ Today I worked on trying Tailwind CSS, so far it look interesting. I'm currently
 **Link(s) to work**  
 **Link(s) to reference used**  
 
-### Day 9: Aug 18 2023 
-**Today's Progress**  
-Today I 
-**Thoughts**   
-**Link(s) to work**  
-**Link(s) to reference used**  
+### Day 10: Aug 19 2023 
+Today I continued trying Tailwind CSS and looking at how I can integrate it into a project I already started.
+
+```
+NOTE:
+https://twitter.com/david_ca6/status/1696748173690024029
+Took a break from personal projects for some time because I was starting to burn out.
+Writing code at work all day and then all evening at home was a lot.
+And some personal stuff made it worse.
+I don't like to skip days in #100DaysOfCode , but it was necessary. (I did code every day anyway)
+I can't write a tweet about the code I write for work because of NDA.
+But I plan to start working on my personal projects again now that I'm feeling better.
+I may occasionally skip a tweet to keep it healthy and not burn out again, but I will write code daily for sure.
+```
+
+### Day 11-12: Sept 02-03 2023 
+Did some C# in Unity working on a turn-based first-person dungeon crawler, writing code to generate a maze, code to allow the player to move inside the maze, and code for the enemy that tries to follow the player around but still needs to work on the enemy logic and add a battle system when the enemy reaches the player.
 
 <!---
 

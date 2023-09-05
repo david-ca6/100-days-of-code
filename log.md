@@ -861,6 +861,14 @@ I may occasionally skip a tweet to keep it healthy and not burn out again, but I
 ### Day 11-12: Sept 02-03 2023 
 Did some C# in Unity working on a turn-based first-person dungeon crawler, writing code to generate a maze, code to allow the player to move inside the maze, and code for the enemy that tries to follow the player around but still needs to work on the enemy logic and add a battle system when the enemy reaches the player.
 
+
+
+### Day 13: Sept 04 2023 
+Today, I mostly wrote JS, and worked on 2 things. 
+The first was a Chrome extension.
+The second thing was a small fan game I'm working on.
+Both are projects I have already started some time ago and am working to finish before I start another project. The hardest part is not starting a new project before finishing the previous one.
+
 <!---
 
 ### Day x: Jan 01 1970   
